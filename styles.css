@@ -53,7 +53,7 @@ a:visited{
 .imageAlign{
 	vertical-align: top;
 	float: right;
-	margin-top: 16px;
+	width:665px;
 }
 
 .imageAlignleft{
@@ -65,8 +65,6 @@ a:visited{
 .contentIndex{
 	float: left;
 	background-color: lightgrey;
-	width: 600px;
-	height: 490px;
 	padding-top: 160px;
 	padding-left: 80px;
 	padding-right: 80px;
@@ -173,4 +171,8 @@ a:visited{
 
 .blueBackground{
 	background-color: #5CC5E0;
+}
+
+.marginLeft{
+	margin-left: 0px;
 }
