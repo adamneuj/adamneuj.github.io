@@ -2,8 +2,8 @@ body{
 	font-family: 'Manjari', sans-serif;
 	font-size: 22px;
 	margin-top: 20px;
-	margin-right: 295px;
-	margin-left: 295px;
+	margin-right: 250px;
+	margin-left: 250px;
 }
 
 a{
@@ -12,6 +12,11 @@ a{
 
 a:visited{
 	color: black;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 .nameClass{
@@ -36,7 +41,6 @@ a:visited{
 	background-color: lightgrey;
 	width: 600px;
 	padding: 50px;
-	position: relative;
 	left: 100px;
 	bottom: 518px;
 }
@@ -53,7 +57,6 @@ a:visited{
 .imageAlign{
 	vertical-align: top;
 	float: right;
-	width:665px;
 }
 
 .imageAlignleft{
@@ -75,12 +78,10 @@ a:visited{
 .aboutMe{
 	float: left;
 	background-color: lightgrey;
-	width: 600px;
-	height: 490px;
 	padding-top: 80px;
 	padding-left: 80px;
 	padding-right: 80px;
-	padding-bottom: 100px;
+	padding-bottom: 80px;
 	color: black;
 	font-size: 18px;
 }
@@ -88,8 +89,6 @@ a:visited{
 .contactMe{
 	float: left;
 	background-color: lightgrey;
-	width: 600px;
-	height: 490px;
 	padding-top: 120px;
 	padding-left: 80px;
 	padding-right: 80px;
@@ -98,10 +97,7 @@ a:visited{
 }
 
 .projectClass{
-	float: left;
 	background-color: lightgrey;
-	width: 490px;
-	height: 410px;
 	padding-top: 80px;
 	padding-left: 80px;
 	padding-right: 80px;
@@ -110,11 +106,7 @@ a:visited{
 }
 
 .projectClassright{
-	float: right;
 	background-color: lightgrey;
-	width: 810px;
-	height: 490px;
-	margin-top: 25px;
 	padding-top: 150px;
 	padding-left: 80px;
 	padding-right: 80px;
@@ -123,10 +115,7 @@ a:visited{
 }
 
 .projectClassleft{
-	float: left;
 	background-color: lightgrey;
-	width: 490px;
-	height: 608px;
 	padding-top: 150px;
 	padding-left: 80px;
 	padding-right: 80px;
